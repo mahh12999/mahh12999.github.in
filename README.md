@@ -1,7 +1,15 @@
-# About Me
+# aboutme
+## okayyy
+### chocolate
+#### like shinchan
 
-# Experience
+ bold **bold**
+ italics _italics_
+ strikethrough ~~strikethrough~~
+==Highlight==  ==Highlight==
 
-# Projects
+`inline code`
 
-# Socials
+col 1 | col 2
+------|-------
+ Fun  | bun
